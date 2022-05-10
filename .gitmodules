@@ -1,0 +1,15 @@
+[submodule "audits/nukeTestVaults"]
+	path = audits/nukeTestVaults
+	url = git@github.com:cartercarlson/nukeTestVaults
+[submodule "gigs/kanakytribe-contracts"]
+	path = kanakytribe-contracts
+	url = git@github.com:cartercarlson/kanakytribe-contracts
+[submodule "gigs/niftyapes/contracts"]
+	path = gigs/niftyapes/contracts
+	url = git@github.com:niftyapes/contracts
+[submodule "gigs/niftyapes/yearn-strategy"]
+	path = gigs/niftyapes/yearn-strategy
+	url = git@github.com:niftyapes/yearn-strategy
+[submodule "audits/valorem-options-contracts"]
+	path = audits/valorem-options-contracts
+	url = git@github.com:cartercarlson/valorem-options-contracts
