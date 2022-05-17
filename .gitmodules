@@ -13,3 +13,6 @@
 [submodule "audits/valorem-options-contracts"]
 	path = audits/valorem-options-contracts
 	url = git@github.com:cartercarlson/valorem-options-contracts
+[submodule "gigs/fluiddao-protocol"]
+	path = gigs/fluiddao-protocol
+	url = git@github.com:fluiddao/protocol
