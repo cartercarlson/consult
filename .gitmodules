@@ -16,3 +16,6 @@
 [submodule "gigs/fluiddao-protocol"]
 	path = gigs/fluiddao-protocol
 	url = git@github.com:fluiddao/protocol
+[submodule "gigs/velodrome-contracts"]
+	path = gigs/velodrome-contracts
+	url = git@github.com:pooltypes/velodrome-contracts
